@@ -65,7 +65,7 @@ Cache-Management-Policies/
 1. Clone the repository:
 
 ```bash id="clone-repo"
-git clone <repository-link>
+git clone <https://github.com/Shairin207/Cache-Management-Policies-in-a-Fixed-Size-Cache>
 ```
 
 2. Navigate to the project directory:
